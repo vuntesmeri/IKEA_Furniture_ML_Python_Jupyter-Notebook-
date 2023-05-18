@@ -1,4 +1,5 @@
 # Furniture IKEA Database Analysis 
+STEP_LEARNING.ipynb
 Jupyter Notebook, Python, Anaconda,  OOP, NumPy, Pandas, Scikit-Learn, Matplotlib, SciPy, LaTeX
 
 ## Objective
